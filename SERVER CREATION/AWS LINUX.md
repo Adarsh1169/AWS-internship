@@ -35,7 +35,7 @@ This guide walks you through creating a **Linux server** on AWS EC2 using the AW
 - Example name: `linux-test-server`
 
 <p align="center">
-  <img src="screenshots/step1.1.png" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/adb613ab77d5c4748dbef29d029c6a873ebea304/SERVER%20CREATION/SCREENSHOTS/step1.1.png.png?raw=true" width="600"/>
   <br/>
   <i>Figure 2: Naming the EC2 instance</i>
 </p>
