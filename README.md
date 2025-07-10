@@ -23,11 +23,6 @@ Each folder or step in this repo includes:
 - 🧾 **Descriptions of the actions**
 - 🎓 **Key learnings**
 
-<p align="center">
-  <img src="screenshots/ec2-summary.png" width="700"/>
-  <br/>
-  <i>EC2 Instance Running with Apache Hosting a Web Page</i>
-</p>
 
 ---
 
