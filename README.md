@@ -22,8 +22,3 @@ Each folder or step in this repo includes:
 - 🖼️ **Step-by-step screenshots**
 - 🧾 **Descriptions of the actions**
 - 🎓 **Key learnings**
-
-
----
-
-## 🧩 Folder Structure
