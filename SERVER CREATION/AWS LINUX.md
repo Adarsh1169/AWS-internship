@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="screenshots/awslinuxlogo.webp" width="120"/>
+  <img src="SERVER CREATION/SCREENSHOTS/awslinuxlogo.webp.png" width="120"/>
 </p>
 
 <h1 align="center" style="color:#2E86C1;">AWS EC2 - Linux Server Creation Guide</h1>
