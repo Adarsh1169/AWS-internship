@@ -28,7 +28,7 @@ This guide walks you through creating a **Windows Server** on AWS EC2 using the 
 - Click on **"Launch Instance"**
 
 <p align="center">
-  <img src="screenshots/step1.png" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SERVER%20CREATION/2.Server%20creation%20windows/screenshots/Screenshot%202025-07-13%20201041.png?raw=true" width="600"/>
   <br/>
   <i>Figure 1: Launch EC2 from AWS Console</i>
 </p>
@@ -39,7 +39,7 @@ This guide walks you through creating a **Windows Server** on AWS EC2 using the 
 - Example name: `windows-demo-server`
 
 <p align="center">
-  <img src="screenshots/step2.png" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SERVER%20CREATION/2.Server%20creation%20windows/screenshots/Screenshot%202025-07-13%20201254.png?raw=true" width="600"/>
   <br/>
   <i>Figure 2: Naming the EC2 instance</i>
 </p>
@@ -50,7 +50,7 @@ This guide walks you through creating a **Windows Server** on AWS EC2 using the 
 - Select **Microsoft Windows Server 2019 Base** or later
 
 <p align="center">
-  <img src="screenshots/step3.png" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SERVER%20CREATION/2.Server%20creation%20windows/screenshots/Screenshot%202025-07-13%20201312.png?raw=true" width="600"/>
   <br/>
   <i>Figure 3: Selecting the Windows OS</i>
 </p>
@@ -62,7 +62,7 @@ This guide walks you through creating a **Windows Server** on AWS EC2 using the 
 - Suitable for basic testing and small workloads
 
 <p align="center">
-  <img src="screenshots/step4.png" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SERVER%20CREATION/2.Server%20creation%20windows/screenshots/Screenshot%202025-07-13%20201333.png?raw=true" width="600"/>
   <br/>
   <i>Figure 4: Selecting the instance type</i>
 </p>
