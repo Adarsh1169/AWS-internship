@@ -58,7 +58,7 @@ This guide walks you through creating a **Windows Server** on AWS EC2 using the 
 ---
 
 ### 📌 Step 4: Select Instance Type
-- Use **t2.micro** (Free Tier eligible)
+- Use **t3.micro** (Free Tier eligible)
 - Suitable for basic testing and small workloads
 
 <p align="center">
