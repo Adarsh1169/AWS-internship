@@ -24,7 +24,7 @@ This guide walks you through creating a **Linux server** on AWS EC2 using the AW
 - Click on **"Launch Instance"**
 
 <p align="center">
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/adb613ab77d5c4748dbef29d029c6a873ebea304/SERVER%20CREATION/SCREENSHOTS/step1.png.png?raw=true" width="600"/>
+  <img src="screenshots/step1.png" width="600"/>
   <br/>
   <i>Figure 1: Launch EC2 from AWS Console</i>
 </p>
@@ -35,7 +35,7 @@ This guide walks you through creating a **Linux server** on AWS EC2 using the AW
 - Example name: `linux-test-server`
 
 <p align="center">
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/adb613ab77d5c4748dbef29d029c6a873ebea304/SERVER%20CREATION/SCREENSHOTS/step1.1.png.png?raw=true" width="600"/>
+  <img src="screenshots/step1.1.png" width="600"/>
   <br/>
   <i>Figure 2: Naming the EC2 instance</i>
 </p>
@@ -49,7 +49,7 @@ This guide walks you through creating a **Linux server** on AWS EC2 using the AW
   - ✅ (Optional: Windows or Android)
 
 <p align="center">
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/adb613ab77d5c4748dbef29d029c6a873ebea304/SERVER%20CREATION/SCREENSHOTS/step3.png.png?raw=true" width="600"/>
+  <img src="screenshots/step3.png" width="600"/>
   <br/>
   <i>Figure 3: Selecting an OS (e.g. Linux)</i>
 </p>
@@ -61,7 +61,7 @@ This guide walks you through creating a **Linux server** on AWS EC2 using the AW
 - Consider your app’s CPU, memory, and network needs
 
 <p align="center">
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/adb613ab77d5c4748dbef29d029c6a873ebea304/SERVER%20CREATION/SCREENSHOTS/step4.png.png?raw=true" width="600"/>
+  <img src="screenshots/step4.png" width="600"/>
   <br/>
   <i>Figure 4: Selecting the instance type</i>
 </p>
@@ -73,11 +73,11 @@ This guide walks you through creating a **Linux server** on AWS EC2 using the AW
 - Download the `.pem` file for secure SSH access
 
 <p align="center">
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/adb613ab77d5c4748dbef29d029c6a873ebea304/SERVER%20CREATION/SCREENSHOTS/step5.png.png?raw=true" width="600"/>
+  <img src="screenshots/step5.png" width="600"/>
   <br/>
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/adb613ab77d5c4748dbef29d029c6a873ebea304/SERVER%20CREATION/SCREENSHOTS/step5.1.png.png?raw=true" width="600"/>
+  <img src="screenshots/step5.1.png" width="600"/>
   <br/>
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/adb613ab77d5c4748dbef29d029c6a873ebea304/SERVER%20CREATION/SCREENSHOTS/step5.2.png.png?raw=true" width="600"/>
+  <img src="screenshots/step5.2.png" width="600"/>
   <br/>
   <i>Figure 5: Key pair setup for EC2 login</i>
 </p>
@@ -91,7 +91,7 @@ This guide walks you through creating a **Linux server** on AWS EC2 using the AW
   - ✅ HTTPS (Port 443)
 
 <p align="center">
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/adb613ab77d5c4748dbef29d029c6a873ebea304/SERVER%20CREATION/SCREENSHOTS/step6.png.png?raw=true" width="600"/>
+  <img src="screenshots/step7.png" width="600"/>
   <br/>
   <i>Figure 6: Opening ports in the security group</i>
 </p>
@@ -103,7 +103,7 @@ This guide walks you through creating a **Linux server** on AWS EC2 using the AW
 - Wait until the status is **"running"**
 
 <p align="center">
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/adb613ab77d5c4748dbef29d029c6a873ebea304/SERVER%20CREATION/SCREENSHOTS/step7.png.png?raw=true" width="600"/>
+  <img src="screenshots/step7.png" width="600"/>
   <br/>
   <i>Figure 7: Launching the EC2 instance</i>
 </p>
@@ -113,9 +113,9 @@ This guide walks you through creating a **Linux server** on AWS EC2 using the AW
 ## ✅ Final Result
 
 <p align="center">
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/adb613ab77d5c4748dbef29d029c6a873ebea304/SERVER%20CREATION/SCREENSHOTS/step8.png.png?raw=true" width="600"/>
+  <img src="" width="600"/>
   <br/>
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/adb613ab77d5c4748dbef29d029c6a873ebea304/SERVER%20CREATION/SCREENSHOTS/step8.1.png.png?raw=true" width="600"/>
+  <img src="screenshots/step8.png" width="600"/>
   <br/>
   <i>Figure 8: EC2 instance successfully launched</i>
 </p>
@@ -126,7 +126,9 @@ This guide walks you through creating a **Linux server** on AWS EC2 using the AW
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1tevdDtSKN0RSeva6rFDcRB-K_l901rkm/view?usp=sharing">
-     <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SERVER%20CREATION/SCREENSHOTS/Screenshot%202025-07-10%20215535.png?raw=true" width="600"/>
+  <img src="screenshots/step8.png" width="600"/>
+  </br>
+  video: Click to play video
   </a>
 </p>
 
