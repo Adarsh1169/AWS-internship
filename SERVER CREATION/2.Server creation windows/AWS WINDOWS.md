@@ -74,12 +74,9 @@ This guide walks you through creating a **Windows Server** on AWS EC2 using the 
 - Download the `.pem` file — required to decrypt your Windows admin password
 
 <p align="center">
-  <img src="screenshots/step5.png" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SERVER%20CREATION/2.Server%20creation%20windows/screenshots/Screenshot%202025-07-13%20201421.png?raw=true" width="600"/>
   <br/>
-  <img src="screenshots/step5.1.png" width="600"/>
-  <br/>
-  <img src="screenshots/step5.2.png" width="600"/>
-  <br/>
+  
   <i>Figure 5: Key pair configuration for secure access</i>
 </p>
 
@@ -92,10 +89,9 @@ This guide walks you through creating a **Windows Server** on AWS EC2 using the 
   - ✅ HTTPS (Port 443)
 
 <p align="center">
-  <img src="screenshots/step6.png" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SERVER%20CREATION/2.Server%20creation%20windows/screenshots/Screenshot%202025-07-13%20201442.png?raw=true" width="600"/>
   <br/>
-  <img src="screenshots/step6.1.png" width="600"/>
-  </br>
+ 
   <i>Figure 6: Configuring the security group for RDP & web access</i>
 </p>
 
@@ -106,7 +102,7 @@ This guide walks you through creating a **Windows Server** on AWS EC2 using the 
 - Wait for instance status to become **"running"**
 
 <p align="center">
-  <img src="screenshots/step7.png" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SERVER%20CREATION/2.Server%20creation%20windows/screenshots/Screenshot%202025-07-13%20201458.png?raw=true" width="600"/>
   <br/>
   <i>Figure 7: Launching the EC2 Windows instance</i>
 </p>
