@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
   <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SERVER%20CREATION/2.Server%20creation%20windows/screenshots/Screenshot%202025-07-13%20200601.png?raw=true"/>
 </div>
 
