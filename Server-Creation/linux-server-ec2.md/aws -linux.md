@@ -91,7 +91,7 @@ This guide walks you through creating a **Linux server** on AWS EC2 using the AW
   - ✅ HTTPS (Port 443)
 
 <p align="center">
-  <img src="screenshots/step7.png" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/Server-Creation/linux-server-ec2.md/screenshots/step6.png?raw=true" width="600"/>
   <br/>
   <i>Figure 6: Opening ports in the security group</i>
 </p>
@@ -113,9 +113,9 @@ This guide walks you through creating a **Linux server** on AWS EC2 using the AW
 ## ✅ Final Result
 
 <p align="center">
-  <img src="" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/Server-Creation/linux-server-ec2.md/screenshots/step8.png?raw=true" width="600"/>
   <br/>
-  <img src="screenshots/step8.png" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/Server-Creation/linux-server-ec2.md/screenshots/step8.1.png?raw=true" width="600"/>
   <br/>
   <i>Figure 8: EC2 instance successfully launched</i>
 </p>
@@ -126,7 +126,7 @@ This guide walks you through creating a **Linux server** on AWS EC2 using the AW
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1tevdDtSKN0RSeva6rFDcRB-K_l901rkm/view?usp=sharing">
-  <img src="screenshots/step8.png" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/Server-Creation/linux-server-ec2.md/screenshots/step8.1.png?raw=true" width="600"/>
   </br>
   video: Click to play video
   </a>
