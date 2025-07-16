@@ -28,7 +28,7 @@ This guide walks you through creating a **Windows Server** on AWS EC2 using the 
 - Click on **"Launch Instance"**
 
 <p align="center">
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SERVER%20CREATION/2.Server%20creation%20windows/screenshots/Screenshot%202025-07-13%20201041.png?raw=true" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/Server-Creation/windows-server-ec2.md/screenshots/Screenshot%202025-07-13%20201041.png?raw=true" width="600"/>
   <br/>
   <i>Figure 1: Launch EC2 from AWS Console</i>
 </p>
@@ -39,7 +39,7 @@ This guide walks you through creating a **Windows Server** on AWS EC2 using the 
 - Example name: `windows-demo-server`
 
 <p align="center">
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SERVER%20CREATION/2.Server%20creation%20windows/screenshots/Screenshot%202025-07-13%20201254.png?raw=true" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/Server-Creation/windows-server-ec2.md/screenshots/Screenshot%202025-07-13%20201254.png?raw=true" width="600"/>
   <br/>
   <i>Figure 2: Naming the EC2 instance</i>
 </p>
@@ -50,7 +50,7 @@ This guide walks you through creating a **Windows Server** on AWS EC2 using the 
 - Select **Microsoft Windows Server 2019 Base** or later
 
 <p align="center">
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SERVER%20CREATION/2.Server%20creation%20windows/screenshots/Screenshot%202025-07-13%20201312.png?raw=true" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/Server-Creation/windows-server-ec2.md/screenshots/Screenshot%202025-07-13%20201312.png?raw=true" width="600"/>
   <br/>
   <i>Figure 3: Selecting the Windows OS</i>
 </p>
@@ -62,7 +62,7 @@ This guide walks you through creating a **Windows Server** on AWS EC2 using the 
 - Suitable for basic testing and small workloads
 
 <p align="center">
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SERVER%20CREATION/2.Server%20creation%20windows/screenshots/Screenshot%202025-07-13%20201333.png?raw=true" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/Server-Creation/windows-server-ec2.md/screenshots/Screenshot%202025-07-13%20201333.png?raw=true" width="600"/>
   <br/>
   <i>Figure 4: Selecting the instance type</i>
 </p>
@@ -74,7 +74,7 @@ This guide walks you through creating a **Windows Server** on AWS EC2 using the 
 - Download the `.pem` file — required to decrypt your Windows admin password
 
 <p align="center">
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SERVER%20CREATION/2.Server%20creation%20windows/screenshots/Screenshot%202025-07-13%20201421.png?raw=true" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/Server-Creation/windows-server-ec2.md/screenshots/Screenshot%202025-07-13%20201421.png?raw=true" width="600"/>
   <br/>
   <i>Figure 5: Key pair configuration for secure access</i>
 </p>
@@ -88,7 +88,7 @@ This guide walks you through creating a **Windows Server** on AWS EC2 using the 
   - ✅ HTTPS (Port 443)
 
 <p align="center">
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SERVER%20CREATION/2.Server%20creation%20windows/screenshots/Screenshot%202025-07-13%20201442.png?raw=true" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/Server-Creation/windows-server-ec2.md/screenshots/Screenshot%202025-07-13%20201442.png?raw=true" width="600"/>
   <br/>
   <i>Figure 6: Configuring the security group for RDP & web access</i>
 </p>
@@ -110,13 +110,13 @@ This guide walks you through creating a **Windows Server** on AWS EC2 using the 
 ## ✅ Final Result
 
 <p align="center">
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SERVER%20CREATION/2.Server%20creation%20windows/screenshots/Screenshot%202025-07-13%20201508.png?raw=true" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/Server-Creation/windows-server-ec2.md/screenshots/Screenshot%202025-07-13%20201458.png?raw=true" width="600"/>
   <br/>
   
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SERVER%20CREATION/2.Server%20creation%20windows/screenshots/Screenshot%202025-07-13%20201518.png?raw=true" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/Server-Creation/windows-server-ec2.md/screenshots/Screenshot%202025-07-13%20201508.png?raw=true" width="600"/>
   </br>
   
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SERVER%20CREATION/2.Server%20creation%20windows/screenshots/Screenshot%202025-07-13%20202026.png?raw=true" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/Server-Creation/windows-server-ec2.md/screenshots/Screenshot%202025-07-13%20201518.png?raw=true" width="600"/>
   </br>
   <i>Figure 8: Windows EC2 instance running successfully</i>
 </p>
