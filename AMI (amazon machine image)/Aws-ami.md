@@ -44,6 +44,8 @@ Before you begin:
 <p align="center">
   <a href="https://drive.google.com/file/d/1VGCUZWRwbVxiuPK9qD0i2WjxT6BQMcJa/view?usp=drive_link">
     <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/AMI%20(amazon%20machine%20image)/Screenshot/Screenshot%202025-07-16%20200556.png?raw=true" width="600" alt="Watch Video"/>
+  </br>
+  <i> click on Picture to play video
   </a>
 </p>
 
