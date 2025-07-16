@@ -126,7 +126,7 @@ This guide walks you through creating a **Linux server** on AWS EC2 using the AW
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1tevdDtSKN0RSeva6rFDcRB-K_l901rkm/view?usp=sharing">
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/Server-Creation/linux-server-ec2.md/screenshots/step8.1.png?raw=true" width="600"/>
+ 
   </br>
   video: Click to play video
   </a>
