@@ -116,7 +116,7 @@ This guide walks you through creating a **Windows Server** on AWS EC2 using the 
   <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/Server-Creation/windows-server-ec2.md/screenshots/Screenshot%202025-07-13%20201508.png?raw=true" width="600"/>
   </br>
   
-  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/Server-Creation/windows-server-ec2.md/screenshots/Screenshot%202025-07-13%20201518.png?raw=true" width="600"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/Server-Creation/windows-server-ec2.md/screenshots/Screenshot%202025-07-13%20202026.png?raw=true" width="600"/>
   </br>
   <i>Figure 8: Windows EC2 instance running successfully</i>
 </p>
