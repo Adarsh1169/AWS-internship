@@ -155,7 +155,7 @@ Click **Publish**
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1u38vvQhzcagpr5f8gylxRwPKZvVQ2Hs2/view?usp=drive_link">
-    <img src="screenshots/sns-final.PNG" width="600" alt="Watch Video"/>
+    <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SNS/Screenshots/Screenshot%202025-07-20%20193134.png?raw=true" width="600" alt="Watch Video"/>
     </br> Click TO Watch Video
   </a>
 
