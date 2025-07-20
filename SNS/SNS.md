@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/sns-logo.png" width="120"/>
+  <img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SNS/Screenshots/Screenshot%202025-07-20%20192024.png?raw=true" width="120"/>
 </p>
 
 <h1 align="center" style="color:#2E86C1;">AWS SNS – Simple Notification Service Guide</h1>
@@ -119,7 +119,7 @@ Since AWS SMS requires verification:
 - Select the **verified phone number**  
 - Click **Create Subscription**
 
-<img src="screenshots/otp.jpg" width="180" alt="Watch Video"/>
+<img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SNS/Screenshots/Screenshot%202025-07-20%20193029.png?raw=true" width="180" alt="Watch Video"/>
 
 ---
 
@@ -144,7 +144,7 @@ Click **Publish**
 
 - Check your **mobile phone**.  
 - You will receive the **SMS notification** from AWS SNS.
-<img src="screenshots/message.jpg" width="180" alt="Watch Video"/>
+<img src="https://github.com/Adarsh1169/AWS-internship/blob/main/SNS/Screenshots/Screenshot%202025-07-20%20193044.png?raw=true" width="180" alt="Watch Video"/>
 ---
 
 <h3 align="left" style="color:#2E86C1;">📽️ Video Demonstration</h3>
